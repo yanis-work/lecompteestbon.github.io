@@ -1,0 +1,22 @@
+
+
+/*
+	Feuille de style
+*/
+
+
+html, body{
+	margin: 0;
+	padding: 0; 
+}
+.contenu{
+	width: 1200px; 	
+	margin: auto;
+	background-color: #ccc; 
+	height: 140vh; 
+}
+footer p{
+	text-align: center;
+	padding:20px;
+	
+}
